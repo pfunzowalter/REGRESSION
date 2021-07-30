@@ -4,4 +4,4 @@ The photometric redshifts estimation is currently the most powerful and efficien
 The Codes used were adopted from Chaka Mofokeng Demo Code:: https://github.com/Mofokeng-C/Classification-Photo-z_Regression_Demo
 
 ![picture](https://github.com/pfunzowalter/REGRESSION/blob/main/sample_data.png)
-![picture](https://github.com/pfunzowalter/REGRESSION/blob/main/knng_z.png)
+![picture](https://github.com/pfunzowalter/REGRESSION/blob/main/knng.png)
